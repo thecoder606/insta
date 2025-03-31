@@ -68,7 +68,7 @@
                                             },
                                                 {
                                                     "image": "https://raw.githubusercontent.com/thecoder606/anteneh-portfolio/main/special burger.jpg",
-                                                    "crossAxis": 4,
+                                                    "crossAxis": 1,
                                                     "mainAxis": 1
                                                 },
                                                     {
@@ -83,7 +83,7 @@
                                                         },
                                                             {
                                                                 "image": "https://raw.githubusercontent.com/thecoder606/anteneh-portfolio/main/programming.jpg",
-                                                                "crossAxis": 1,
+                                                                "crossAxis": 4,
                                                                 "mainAxis": 2
                                                             },
                                                                 {
@@ -98,8 +98,8 @@
                                                                     },
                                                                         {
                                                                             "image": "https://raw.githubusercontent.com/thecoder606/anteneh-portfolio/main/laughing cat.png",
-                                                                            "crossAxis": 4,
-                                                                            "mainAxis": 2
+                                                                            "crossAxis": 1,
+                                                                            "mainAxis": 1
                                                                         },
                                                                             {
                                                                                 "image": "https://raw.githubusercontent.com/thecoder606/anteneh-portfolio/main/jordan 4.jpg",
