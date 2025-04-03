@@ -1,5 +1,17 @@
 [
     {
+        "image": "https://raw.githubusercontent.com/thecoder606/anteneh-portfolio/main/Buna.jpg",
+        "crossAxis":1,
+        "mainAxis": 1,
+        "like":false
+    },
+    {
+        "image": "https://raw.githubusercontent.com/thecoder606/anteneh-portfolio/main/adidas.jpg",
+        "crossAxis":1,
+        "mainAxis": 1,
+        "like":false
+    },
+    {
         "image": "https://raw.githubusercontent.com/thecoder606/anteneh-portfolio/main/Hei.png",
         "crossAxis": 4,
         "mainAxis": 2,
